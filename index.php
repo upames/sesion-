@@ -18,6 +18,8 @@
              <li><a href="index.php">P&aacutegina Principal</a></li>
               <li><a href="agregarUsuarioinfo.php">Registrar</a></li>
              <li><a href="login.php">Iniciar sesi&oacuten</a></li>
+               <li><a href="registroProducto.php">Registrar Productos</a></li>
+                 <li><a href="buscarProducto.php">Buscar Producto</a></li>
              <li>
                <div id="login">
                  <a href="#"id="abierto">Comentarios</a></i>

@@ -27,6 +27,6 @@
      <div class="container">
        <div class="row">
        <br><br>
-       <h6>version 0</h6>
+       <h6>version 1.0</h6>
   </body>
 </html>

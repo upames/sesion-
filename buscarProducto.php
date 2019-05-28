@@ -20,7 +20,7 @@
 
 
  <form method="post" action="buscarProductoProcesa.php">
-   <input type="text" name="codigo"  align="center" size="50" placeholder="Codigo"><br><br>
+   <input type="text" name="codigo"  align="center" size="50" placeholder="Codigo" autofocus><br><br>
    <input type="submit" value="buscar">
 
  </form>

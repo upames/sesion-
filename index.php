@@ -19,7 +19,8 @@
               <li><a href="agregarUsuarioinfo.php">Registrar</a></li>
              <li><a href="login.php">Iniciar sesi&oacuten</a></li>
                <li><a href="registroProducto.php">Registrar Productos</a></li>
-                 <li><a href="buscarProducto.php">Buscar Producto</a></li>
+                <li><a href="buscarProducto.php">Buscar Producto</a></li>
+                <li><a href="sesionCodigoBarras.php">Sesiòn con codigo</a></li>
            </ul>
          </div>
        </div>

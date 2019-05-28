@@ -13,7 +13,7 @@ $contra = $passwordCifrado[0];
         if($contra==""){
           $mensaje = "No existe un usuario con ese codigo";
           echo "<script>";
-          echo "alert(mensaje);"
+          echo "alert('$mensaje');";
           echo "window.location = 'index.php';";
           echo "</script>";
         }else {

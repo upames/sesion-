@@ -19,6 +19,6 @@
      <div class="container">
        <div class="row">
 
-        <h1>¡BIENVENIDO!</h1>
+       <center><h1>¡BIENVENIDO!</h1></center> 
   </body>
 </html>

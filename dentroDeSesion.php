@@ -1,10 +1,6 @@
 <?php
 
 $nombre=$_GET["passwordCifrado"];
-<<<<<<< HEAD
-
-=======
->>>>>>> 2754a79cd6bb0a3753d986b85db728b22a7f676f
 ?>
 
 <!DOCTYPE html>

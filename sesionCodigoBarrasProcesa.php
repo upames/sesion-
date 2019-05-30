@@ -1,6 +1,6 @@
 <?php
 
-$consulta = "SELECT * FROM usuario WHERE idUsuario='$_REQUEST[codigo]'";
+$consulta = "SELECT * FROM personal WHERE id_Personal='$_REQUEST[codigo]'";
 
 $conexion=mysqli_connect("localhost","root","","encriptarBlowfish") or
         die("Problemas en la conexión");

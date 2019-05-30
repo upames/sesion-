@@ -20,6 +20,7 @@
 
 
  <form method="post" action="agregarUsuarioProcesa.php">
+   <input type="text" name="codigo"  align="center" size="50" placeholder="Codigo"><br><br>
    <input type="text" name="usuario"  align="center" size="50" placeholder="Ingrese un nuevo usuario"><br><br>
    <input type="text" name="correo" align="center" size="50" placeholder="Ingrese correo"><br><br>
    <input type="password" name="password" align="center" size="50" placeholder="Ingrese un password"><br><br>

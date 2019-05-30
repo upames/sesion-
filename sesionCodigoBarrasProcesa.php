@@ -20,6 +20,8 @@ $contra = $passwordCifrado[0];
           echo "<script>";
           echo "window.location = 'dentroDeSesion.php';";
           echo "</script>";
+
+          header("Location: dentroDeSesion.php?passwordCifrado=$passwordCifrado[1]");
         }
 mysqli_close($conexion);
 

@@ -18,11 +18,3 @@ cantidad int(11),
 precio float(15,2),
 Constraint PK_producto primary key(id_Codigo)
 );
-
-
-create table personal(
-	id_Personal varchar(19),
-	nombre_Personal varchar(60),
-	correo varchar(30),
-	Constraint PK_personal primary key(id_Personal)
-);

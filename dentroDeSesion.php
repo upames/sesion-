@@ -1,7 +1,7 @@
 <?php
 
 $nombre=$_GET["passwordCifrado"];
-
+if()
 ?>
 
 <!DOCTYPE html>

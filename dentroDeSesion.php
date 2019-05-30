@@ -1,3 +1,9 @@
+<?php
+
+$nombre=$_GET["passwordCifrado"];
+
+?>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -19,6 +25,7 @@
      <div class="container">
        <div class="row">
 
-       <center><h1>¡BIENVENIDO!</h1></center> 
+       <center><h1>¡BIENVENIDO <?php echo $nombre ?>!</h1></center>
+       <center><h1>Iniciaste sesiòn</h1></center>
   </body>
 </html>
